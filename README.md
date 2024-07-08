@@ -1,2 +1,4 @@
 # Database_normalization-script
-Database normal form parser
+Simple "script" that for now checks if the database is in 2nf.
+
+Will add checking for 3nf and conversion to 3nf through synthesis algorithm in the future.
